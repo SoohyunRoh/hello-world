@@ -1,4 +1,5 @@
-First of all, I live in Canada, and I came from South Korea 3 years ago. It seems not a strong point but the job description shows me that all requirements and responsibility are a good fit for me.
+First of all, I live in Canada, and I came from South Korea 3 years ago. 
+It seems not a strong point but the job description shows me that all requirements and responsibility are a good fit for me.
 
 1. Education
     - I graduated Seneca College Computer Programming course
@@ -23,7 +24,8 @@ First of all, I live in Canada, and I came from South Korea 3 years ago. It seem
 6. Assets
     - Experienced open source and framework
     - Source control: CVS, SVN. (I know the GIT and studied in College, but I can be familiar to use it).
-    - Agile: In my experience, my team has 2weeks sprint and 7 members scrum. It was not true agile, but my team tried to change to be the agile team.
+    - Agile: In my experience, my team has 2weeks sprint and 7 members scrum. 
+             It was not true agile, but my team tried to change to be the agile team.
     - Business trip: I can.
 
 * I willing to move to P.E.I from Toronto, because I looking for the workplace which located not in the metropolitan.
